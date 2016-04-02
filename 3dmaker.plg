@@ -1,0 +1,76 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 3dmaker - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\a\LOCALS~1\Temp\RSP101.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/3dmaker.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\a\LOCALS~1\Temp\RSP101.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/3dmaker.pdb" /debug /machine:I386 /out:"Debug/3dmaker.exe" /pdbtype:sept  ".\Debug\3dmaker.obj" ".\Debug\3dmaker.res" "
+<h3>Output Window</h3>
+Compiling...
+3dmaker.cpp
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(99) : warning C4101: 'ax' : unreferenced local variable
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(99) : warning C4101: 'ay' : unreferenced local variable
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(99) : warning C4101: 'temp' : unreferenced local variable
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(98) : warning C4101: 'ttype' : unreferenced local variable
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(99) : warning C4101: 'k' : unreferenced local variable
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(306) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(307) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(334) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(334) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(338) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(338) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(342) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(342) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(346) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(346) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(350) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(350) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(354) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(354) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(358) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(358) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(362) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(362) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(368) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(368) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(368) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(368) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(380) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(380) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(385) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(385) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(390) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(390) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(395) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(395) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(400) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(400) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(405) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(405) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(265) : warning C4101: 'max' : unreferenced local variable
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(264) : warning C4101: 'possible' : unreferenced local variable
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(266) : warning C4101: 'k' : unreferenced local variable
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(269) : warning C4101: 'brush' : unreferenced local variable
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(429) : warning C4101: 'z3' : unreferenced local variable
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(429) : warning C4101: 'x3' : unreferenced local variable
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(429) : warning C4101: 'y3' : unreferenced local variable
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(418) : warning C4700: local variable 'old2' used without having been initialized
+C:\Documents and Settings\a\grewar\3dmaker\3dmaker.cpp(419) : warning C4700: local variable 'old3' used without having been initialized
+Linking...
+LINK : LNK6004: Debug/3dmaker.exe not found or not built by the last incremental link; performing full link
+
+
+
+<h3>Results</h3>
+3dmaker.exe - 0 error(s), 48 warning(s)
+</pre>
+</body>
+</html>
